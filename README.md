@@ -34,5 +34,3 @@
 ---
 
 ### 📊 GitHub Stats
-
-![Sarvar's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarvar-vx&show_icons=true&theme=dark)
