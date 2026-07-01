@@ -8,7 +8,7 @@
 - 🔭 I'm currently working on **Django & DRF projects**
 - 🌱 I'm currently learning **Django REST Framework**
 - 💼 Looking for a **Junior Backend Developer** position
-- 📫 Reach me at: **@sarvar_vx** (Telegram)
+- 📫 Reach me at: **@sarvar_vx** (Telegram, Instagram)
 
 ---
 
